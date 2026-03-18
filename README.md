@@ -12,3 +12,5 @@ This is my personal portfolio showcasing my projects in machine learning and web
 ## Tech Stack
 - HTML, CSS, JavaScript
 - Python, TensorFlow, scikit-learn
+## Live Demo
+  https://sahithi987654.github.io/portfolio/
